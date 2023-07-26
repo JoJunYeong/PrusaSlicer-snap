@@ -1,4 +1,4 @@
-# PrusaSlicer-snap
+# PrusaSlicer-snap(for TD)
 
 Source for Snap package of PrusaSlicer **(unofficial)**.
 
